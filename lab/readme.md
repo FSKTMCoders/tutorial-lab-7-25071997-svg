@@ -1,4 +1,5 @@
 # Lab
+```java
 import java.io.*;
 import java.net.URL;
 import java.net.URLConnection;
@@ -129,3 +130,4 @@ public class Lab7 {
             System.out.println("Error: " + e.getMessage());
         }
     }
+```
